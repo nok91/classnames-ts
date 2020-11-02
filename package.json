@@ -1,0 +1,29 @@
+{
+  "name": "classnames-ts",
+  "version": "1.0.0",
+  "description": "A simple JavaScript utility for conditionally joining classNames together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "classes",
+    "classname",
+    "classnames",
+    "classnames-ts",
+    "util",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nok91/classnames-ts.git"
+  },
+  "author": "Nokri Mohammed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nok91/classnames-ts/issues"
+  },
+  "homepage": "https://github.com/nok91/classnames-ts#readme"
+}
