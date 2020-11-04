@@ -4,7 +4,9 @@
   "description": "A simple JavaScript utility for conditionally joining classNames together.",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --watchAll --coverage",
+    "test:coverage": "jest --watchAll --coverage",
+    "open:coverage": "open ./coverage/lcov-report/index.html",
     "build": "tsc"
   },
   "keywords": [
