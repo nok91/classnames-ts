@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll --coverage",
-    "test:coverage": "jest --watchAll --coverage",
+    "test:coverage": "jest --coverage",
     "open:coverage": "open ./coverage/lcov-report/index.html",
     "build": "tsc"
   },
