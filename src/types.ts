@@ -17,13 +17,5 @@ export function isClassDictionary(arg: any): arg is ClassDictionary {
     
     if(argType !== 'object' || isEmpty) return false
     
-    for (const key in arg) {
-        if(
-            typeof key !== 'string'
-        ) {
-            return false
-        }
-    }
-    
     return true;
 }
