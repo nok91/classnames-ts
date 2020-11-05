@@ -7,7 +7,6 @@
     width="80"
     alt="bee"
     src="https://github.com/nok91/classnames-ts/blob/main/other/bee.png"
-      
   />
 </a>
 
