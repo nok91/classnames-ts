@@ -29,7 +29,7 @@ Please note this is a rewritten version of [classname](https://github.com/JedWat
 
 ## The problem
 
-So let's say you have to handle some dynamic question, a common scenario should be something like:
+So let's say you want to conditionally join class names together, a common scenario should be something like:
 
 ```js
 var toggleClassName = 'toggle';
